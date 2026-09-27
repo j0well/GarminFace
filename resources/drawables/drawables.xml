@@ -1,0 +1,5 @@
+<drawables>
+    <bitmap id="LauncherIcon" filename="launcher_icon.png" />
+    <!-- Replace background.jpg with your own picture (260x260 px works best on the Forerunner 255 Music). -->
+    <bitmap id="Background" filename="background.jpg" dithering="floyd_steinberg" />
+</drawables>
